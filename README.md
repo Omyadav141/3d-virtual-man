@@ -1,5 +1,7 @@
 # 3d-virtual-man
 
+https://omyadav141.github.io/3d-virtual-man/
+
 Welcome to the 3D Virtual Man project! This repository contains code and resources for creating a 3D virtual human using advanced computer graphics and animation techniques.
 
 Project Overview
